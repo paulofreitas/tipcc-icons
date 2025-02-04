@@ -6,6 +6,7 @@
 | Currency | Icons | Old | New | Notes |
 |----------|-------|-----|-----|-------|
 | BONC | [PNG](/dist/PNG/BONC.png)<br>[SVG](/dist/SVG/BONC.svg) | 119x128<br>29,122 bytes | 128x128<br>3,047 bytes | New brand icon |
+| TT | [PNG](/dist/PNG/TT.png) | 128x128<br>11,054 bytes | 128x128<br>2,297 bytes | New brand icon |
 
 ## Tools used
 
