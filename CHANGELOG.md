@@ -1,5 +1,10 @@
 # Changelog
 
+## 2025-02-04
+
+- Added OP icons (PNG+SVG), extracted from their official brand kit available at <https://www.optimism.io/brand><br>
+  SVG icon compressed, PNG icon converted from SVG and compressed
+
 ## 2025-02-03
 
 - Added BONC icons (PNG+SVG), extracted from their [official brand kit](https://bonc.bonkscoin.io/BONCBrandKit.zip) available at <https://bonkscoin.io/><br>
