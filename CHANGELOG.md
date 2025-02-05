@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-02-05
+
+- Added BAN icons (PNG+SVG), extracted from their official press kit available at <https://banano.cc/presskit><br>
+  SVG icon compressed, PNG icon resized from original 512x512 and compressed
+- Added DGB icons (PNG+SVG), extracted from their official repository available at <https://github.com/DigiByte-Core/digibyte-logos><br>
+  SVG icon edited and compressed, PNG icon converted from SVG and compressed
+
 ## 2025-02-04
 
 - Added OP icons (PNG+SVG), extracted from their official brand kit available at <https://www.optimism.io/brand><br>
