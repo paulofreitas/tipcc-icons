@@ -14,6 +14,7 @@
 
 ## Tools used
 
+- SVG editing: Boxy SVG Editor (http://boxy-svg.com/app/)
 - SVG compression: SVGOMG (https://jakearchibald.github.io/svgomg/) + Vecta Nano (https://vecta.io/nano)
 - SVG to PNG conversion: Online Convert (https://image.online-convert.com/convert/svg-to-png)
 - PNG resize: iLoveIMG (https://www.iloveimg.com/resize-image/resize-png)
