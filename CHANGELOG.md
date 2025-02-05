@@ -4,6 +4,8 @@
 
 - Added OP icons (PNG+SVG), extracted from their official brand kit available at <https://www.optimism.io/brand><br>
   SVG icon compressed, PNG icon converted from SVG and compressed
+- Added NANO icons (PNG+SVG), extracted from their official currency kit available at <https://nano.org/en/currency><br>
+  SVG icon compressed, PNG icon resized from original 1080x1080 and compressed
 
 ## 2025-02-03
 
