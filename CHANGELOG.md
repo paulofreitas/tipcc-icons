@@ -6,6 +6,8 @@
   SVG icon compressed, PNG icon resized from original 512x512 and compressed
 - Added DGB icons (PNG+SVG), extracted from their official repository available at <https://github.com/DigiByte-Core/digibyte-logos><br>
   SVG icon edited and compressed, PNG icon converted from SVG and compressed
+- Further compressed SVG icons using new tooling: `svgo`, Vecta Nano and `scour` (first pass with `svgo`, second pass with Vecta Nano, third pass with `svgo` again and `scour` as a last pass)
+- Fixed PNG icons to use 32-bit RGB+alpha bit depth and lossless compression using new tooling: `svg2png` for SVG to PNG conversion, `magick` for PNG resizing and `zopflipng` for PNG compression
 
 ## 2025-02-04
 
