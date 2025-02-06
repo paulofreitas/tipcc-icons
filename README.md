@@ -15,7 +15,7 @@
 ## Tools used
 
 - SVG editing: Boxy SVG Editor (http://boxy-svg.com/app/)
-- SVG compression: SVGOMG (https://jakearchibald.github.io/svgomg/) + Vecta Nano (https://vecta.io/nano)
-- SVG to PNG conversion: Online Convert (https://image.online-convert.com/convert/svg-to-png)
-- PNG resize: iLoveIMG (https://www.iloveimg.com/resize-image/resize-png)
-- PNG compression: TinyPNG (https://tinypng.com/)
+- SVG compression: `svgo` (https://github.com/svg/svgo) + Vecta Nano (https://vecta.io/nano) + `scour` (https://github.com/scour-project/scour)
+- SVG to PNG conversion: `svg2png` (https://cairographics.org/)
+- PNG resize: `magick` (https://imagemagick.org/)
+- PNG compression: `zopflipng` (https://github.com/google/zopfli)
