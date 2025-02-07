@@ -1,5 +1,13 @@
 # Changelog
 
+## 2025-02-06
+
+- Enhance README table formatting and add icon previews
+- Added WAXP icon (PNG), extracted from their official branding page available at <https://www.wax.io/branding/><br>
+  PNG icon compressed
+- Added VRSC icons (PNG+SVG), extracted from their official media assets available at <https://github.com/VerusCoin/Media-Assets><br>
+  SVG icon compressed, PNG icon resized from original 500x500 and compressed
+
 ## 2025-02-05
 
 - Added BAN icons (PNG+SVG), extracted from their official press kit available at <https://banano.cc/presskit><br>
