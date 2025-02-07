@@ -11,7 +11,7 @@
 | NANO | <img src="/dist/PNG/NANO.png" alt="Nano" width="32" height="32"><br>[PNG](/dist/PNG/NANO.png) &#124; [SVG](/dist/SVG/NANO.svg) | 50x50<br>2,170 bytes | 128x128<br>3,608 bytes | Better icon size |
 | OP | <img src="/dist/PNG/OP.png" alt="Optimism" width="32" height="32"><br>[PNG](/dist/PNG/OP.png) &#124; [SVG](/dist/SVG/OP.svg) | 32x32<br>1,025 bytes | 128x128<br>3,043 bytes | Better icon size |
 | TT | <img src="/dist/PNG/TT.png" alt="Thunderscore" width="32" height="32"><br>[PNG](/dist/PNG/TT.png) | 128x128<br>11,054 bytes | 128x128<br>7,392 bytes | New brand icon |
-| VRSC | <img src="/dist/PNG/VRSC.png" alt="Verus Coin" width="32" height="32"><br>[PNG](/dist/PNG/VRSC.png) | 64x64<br>2,638 bytes | 128x128<br>3,731 bytes | Better icon size |
+| VRSC | <img src="/dist/PNG/VRSC.png" alt="Verus Coin" width="32" height="32"><br>[PNG](/dist/PNG/VRSC.png) &#124; [SVG](/dist/SVG/VRSC.svg) | 64x64<br>2,638 bytes | 128x128<br>3,731 bytes | Better icon size |
 | WAXP | <img src="/dist/PNG/WAXP.png" alt="WAX" width="32" height="32"><br>[PNG](/dist/PNG/WAXP.png) | 64x64<br>7,236 bytes | 128x128<br>26,585 bytes | Better icon size |
 
 ## Tools used
