@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-02-08
+
+- Added TLOS icons (PNG+SVG), extracted from their official brand assets available at <https://www.telos.net/community-resources><br>
+  SVG icon compressed, PNG icon resized from original 256x256 and compressed
+- Added LINK icons (PNG+SVG), extracted from their official brand assets available at <https://chain.link/brand-assets><br>
+  SVG icon edited and compressed, PNG icon converted from SVG and compressed
+
 ## 2025-02-06
 
 - Enhance README table formatting and add icon previews
