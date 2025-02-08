@@ -6,6 +6,10 @@
   SVG icon compressed, PNG icon resized from original 256x256 and compressed
 - Added LINK icons (PNG+SVG), extracted from their official brand assets available at <https://chain.link/brand-assets><br>
   SVG icon edited and compressed, PNG icon converted from SVG and compressed
+- Added USDC icons (PNG+SVG), extracted from their official brand kit available at <https://www.circle.com/pressroom#brandkit><br>
+  SVG icon compressed, PNG icon resized from original 933x932 and compressed
+- Added EURC icons (PNG+SVG), extracted from their official brand kit available at <https://www.circle.com/pressroom#brandkit><br>
+  SVG icon compressed, PNG icon resized from original 933x932 and compressed
 
 ## 2025-02-06
 
