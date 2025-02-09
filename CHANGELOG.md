@@ -10,6 +10,10 @@
   SVG icon compressed, PNG icon resized from original 933x932 and compressed
 - Added EURC icons (PNG+SVG), extracted from their official brand kit available at <https://www.circle.com/pressroom#brandkit><br>
   SVG icon compressed, PNG icon resized from original 933x932 and compressed
+- Added PEPE icons (PNG+SVG), extracted from their official brand kit available at <https://pepecoin.org/pepecoin_brand_kit.zip><br>
+  SVG icon compressed, PNG icon converted from SVG and compressed
+- Added LTC icons (PNG+SVG), extracted from their official resources page available at <https://litecoin.com/resources><br>
+  SVG icon compressed, PNG icon resized from original 4501x4501 and compressed
 
 ## 2025-02-06
 
