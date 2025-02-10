@@ -1,5 +1,14 @@
 # Changelog
 
+## 2025-02-09
+
+- Added BTG icons (PNG+SVG), extracted from their official press kit available at <https://bitcoingold.org/press-kit/><br>
+  SVG icon edited and compressed, PNG icon cropped from original 600x600, resized and compressed
+- Added BCH icons (PNG+SVG), extracted from their official promotional graphics page available at <https://bitcoincash.org/en/graphics/><br>
+  SVG icon compressed, PNG icon converted and resized from original 788x788 and compressed
+- Added POL icons (PNG+SVG), extracted from their official brand guidelines available at <https://polygon.technology/brandguidelines><br>
+  SVG icon compressed, PNG icon resized from original 1080x1080 and compressed
+
 ## 2025-02-08
 
 - Added TLOS icons (PNG+SVG), extracted from their official brand assets available at <https://www.telos.net/community-resources><br>
