@@ -9,6 +9,7 @@
 | BCH | <img src="/dist/PNG/BCH.png" alt="Bitcoin Cash" width="32" height="32"><br>[PNG](/dist/PNG/BCH.png) &#124; [SVG](/dist/SVG/BCH.svg) | 128x128<br>3,431 bytes | 128x128<br>5,277 bytes | New brand icon |
 | BONC | <img src="/dist/PNG/BONC.png" alt="Bonkcoin" width="32" height="32"><br>[PNG](/dist/PNG/BONC.png) &#124; [SVG](/dist/SVG/BONC.svg) | 119x128<br>29,122 bytes | 128x128<br>11,418 bytes | New brand icon |
 | BTG | <img src="/dist/PNG/BTG.png" alt="Bitcoin Gold" width="32" height="32"><br>[PNG](/dist/PNG/BTG.png) &#124; [SVG](/dist/SVG/BTG.svg) | 128x128<br>10,307 bytes | 128x128<br>9,157 bytes | Better icon compression |
+| DASH | <img src="/dist/PNG/DASH.png" alt="Dash" width="32" height="32"><br>[PNG](/dist/PNG/DASH.png) &#124; [SVG](/dist/SVG/DASH.svg) | 96x96<br>3,119 bytes | 128x128<br>3,375 bytes | New brand icon<br>(used for coin) |
 | DGB | <img src="/dist/PNG/DGB.png" alt="Digibyte" width="32" height="32"><br>[PNG](/dist/PNG/DGB.png) &#124; [SVG](/dist/SVG/DGB.svg) | 128x128<br>10,302 bytes | 128x128<br>4,622 bytes | Anti-aliased icon |
 | EURC | <img src="/dist/PNG/EURC.png" alt="EURC" width="32" height="32"><br>[PNG](/dist/PNG/EURC.png) &#124; [SVG](/dist/SVG/EURC.svg) | 128x128<br>14,838 bytes | 128x128<br>5,949 bytes | New brand icon |
 | LINK | <img src="/dist/PNG/LINK.png" alt="Chainlink" width="32" height="32"><br>[PNG](/dist/PNG/LINK.png) &#124; [SVG](/dist/SVG/LINK.svg) | 64x64<br>1,526 bytes | 128x128<br>1,591 bytes | New brand icon |
@@ -22,6 +23,7 @@
 | USDC | <img src="/dist/PNG/USDC.png" alt="USDC" width="32" height="32"><br>[PNG](/dist/PNG/USDC.png) &#124; [SVG](/dist/SVG/USDC.svg) | 128x128<br>8,148 bytes | 128x128<br>6,012 bytes | Anti-aliased icon |
 | VRSC | <img src="/dist/PNG/VRSC.png" alt="Verus Coin" width="32" height="32"><br>[PNG](/dist/PNG/VRSC.png) &#124; [SVG](/dist/SVG/VRSC.svg) | 64x64<br>2,638 bytes | 128x128<br>3,731 bytes | Better icon size |
 | WAXP | <img src="/dist/PNG/WAXP.png" alt="WAX" width="32" height="32"><br>[PNG](/dist/PNG/WAXP.png) | 64x64<br>7,236 bytes | 128x128<br>26,585 bytes | Better icon size |
+| XMR | <img src="/dist/PNG/XMR.png" alt="Monero" width="32" height="32"><br>[PNG](/dist/PNG/XMR.png) &#124; [SVG](/dist/SVG/XMR.svg) | 128x128<br>6,010 bytes | 128x128<br>2,841 bytes | Better icon compression |
 
 ## Tools used
 

@@ -1,13 +1,20 @@
 # Changelog
 
+## 2025-02-10
+
+- Added XMR icons (PNG+SVG), extracted from their official press kit available at <https://www.getmonero.org/press-kit/><br>
+  SVG icon converted from AI and compressed, PNG icon cropped from original 1280x1280, resized and compressed
+
 ## 2025-02-09
 
 - Added BTG icons (PNG+SVG), extracted from their official press kit available at <https://bitcoingold.org/press-kit/><br>
   SVG icon edited and compressed, PNG icon cropped from original 600x600, resized and compressed
 - Added BCH icons (PNG+SVG), extracted from their official promotional graphics page available at <https://bitcoincash.org/en/graphics/><br>
-  SVG icon compressed, PNG icon converted and resized from original 788x788 and compressed
+  SVG icon compressed, PNG icon converted from WebP, resized from original 788x788 and compressed
 - Added POL icons (PNG+SVG), extracted from their official brand guidelines available at <https://polygon.technology/brandguidelines><br>
   SVG icon compressed, PNG icon resized from original 1080x1080 and compressed
+- Added DASH icons (PNG+SVG), extracted from their official brand guidelines available at <https://www.dash.org/brand-guidelines/><br>
+  SVG icon compressed, PNG icon resized from original 1000x1000 and compressed
 
 ## 2025-02-08
 
