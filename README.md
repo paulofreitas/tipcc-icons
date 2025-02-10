@@ -23,6 +23,7 @@
 | USDC | <img src="/dist/PNG/USDC.png" alt="USDC" width="32" height="32"><br>[PNG](/dist/PNG/USDC.png) &#124; [SVG](/dist/SVG/USDC.svg) | 128x128<br>8,148 bytes | 128x128<br>6,012 bytes | Anti-aliased icon |
 | VRSC | <img src="/dist/PNG/VRSC.png" alt="Verus Coin" width="32" height="32"><br>[PNG](/dist/PNG/VRSC.png) &#124; [SVG](/dist/SVG/VRSC.svg) | 64x64<br>2,638 bytes | 128x128<br>3,731 bytes | Better icon size |
 | WAXP | <img src="/dist/PNG/WAXP.png" alt="WAX" width="32" height="32"><br>[PNG](/dist/PNG/WAXP.png) | 64x64<br>7,236 bytes | 128x128<br>26,585 bytes | Better icon size |
+| XLA | <img src="/dist/PNG/XLA.png" alt="Scala" width="32" height="32"><br>[PNG](/dist/PNG/XLA.png) &#124; [SVG](/dist/SVG/XLA.svg) | 128x128<br>6,004 bytes | 128x128<br>5,747 bytes | Better icon compression |
 | XMR | <img src="/dist/PNG/XMR.png" alt="Monero" width="32" height="32"><br>[PNG](/dist/PNG/XMR.png) &#124; [SVG](/dist/SVG/XMR.svg) | 128x128<br>6,010 bytes | 128x128<br>2,841 bytes | Better icon compression |
 
 ## Tools used

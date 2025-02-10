@@ -4,6 +4,8 @@
 
 - Added XMR icons (PNG+SVG), extracted from their official press kit available at <https://www.getmonero.org/press-kit/><br>
   SVG icon converted from AI and compressed, PNG icon cropped from original 1280x1280, resized and compressed
+- Added XLA icons (PNG+SVG), extracted from their official brand assets available at <https://scala.network/brand-assets/><br>
+  SVG icon compressed, PNG icon resize from original 500x500 and compressed
 
 ## 2025-02-09
 
