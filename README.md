@@ -1,6 +1,13 @@
 # tipcc-icons
 *New refreshed and optimized cryptocurrency icons for [tip.cc](https://tip.ccc/) bot*
 
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-3861fb.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Icons: 24](https://img.shields.io/badge/icons-24-3861fb.svg)
+
+Images are in transparent PNG format at 128×128 size, along with SVG versions when available.
+
+This is all voluntary work, so if you'd like to support my efforts, please consider donating.
+
 ## Icons available
 
 | Currency | Icons | Old | New | Notes |
@@ -37,3 +44,21 @@
 - SVG to PNG conversion: `svg2png` (https://cairographics.org/) + Online Convert (https://image.online-convert.com/convert/svg-to-png)
 - PNG resize: `magick` (https://imagemagick.org/)
 - PNG compression: `zopflipng` (https://github.com/google/zopfli)
+
+## License
+
+All icons are under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+## Supporting
+
+If you find this project helpful please consider *starring* it to show your support!
+
+If you would like to say thanks and support its further development, a donation is always appreciated:
+
+- [Donate via GitHub Sponsors](https://github.com/sponsors/paulofreitas)
+- [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=7RXV5F493MYVY)
+- Donate via crypto:
+  - BTC: bc1qx52la826uezj0t7t5ty4t0708cv4jg5p5mu2v9
+  - LTC: ltc1qx52la826uezj0t7t5ty4t0708cv4jg5ps8xw54
+  - DOGE: D9ynhdrciMzvY91wu9uZ3oPBTURUSGfkkV
+  - PEP: PcmUJTc7B43hoQeCY4Zqf4Tdpb7zyAe37U
