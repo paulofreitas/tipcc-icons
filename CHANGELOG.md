@@ -6,6 +6,10 @@
   SVG icon edited and compressed, PNG icon converted from SVG and compressed
 - Added FLR icons (PNG+SVG), extracted from their official media & branding page available at <https://flare.network/media/><br>
   SVG icon edited and compressed, PNG icon cropped from original 579x579, resized and compressed
+- Added PPC icons (PNG+SVG), extracted from their official graphics resources available at <https://www.peercoin.net/resources#graphics><br>
+  SVG icon compressed, PNG icon resized from original 7680x7680 and compressed
+- Added ZEN icons (PNG+SVG), extracted from their official media kit available at <https://downloads.horizen.io/file/web-assets/HorizenMediaKit.zip><br>
+  SVG icon edited and compressed, PNG icon converted from SVG and compressed
 
 ## 2025-02-10
 

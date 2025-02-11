@@ -19,6 +19,7 @@
 | OP | <img src="/dist/PNG/OP.png" alt="Optimism" width="32" height="32"><br>[PNG](/dist/PNG/OP.png) &#124; [SVG](/dist/SVG/OP.svg) | 32x32<br>1,025 bytes | 128x128<br>3,043 bytes | Better icon size |
 | PEPE | <img src="/dist/PNG/PEPE.png" alt="Pepecoin" width="32" height="32"><br>[PNG](/dist/PNG/PEPE.png) &#124; [SVG](/dist/SVG/PEPE.svg) | 128x128<br>23,696 bytes | 128x128<br>10,454 bytes | Better icon compression |
 | POL | <img src="/dist/PNG/POL.png" alt="Polygon Ecosystem Token" width="32" height="32"><br>[PNG](/dist/PNG/POL.png) &#124; [SVG](/dist/SVG/POL.svg) | 128x128<br>10,242 bytes | 128x128<br>2,657 bytes | New brand icon |
+| PPC | <img src="/dist/PNG/PPC.png" alt="Peercoin" width="32" height="32"><br>[PNG](/dist/PNG/PPC.png) &#124; [SVG](/dist/SVG/PPC.svg) | 128x128<br>4,574 bytes | 128x128<br>3,732 bytes | Better icon compression |
 | TLOS | <img src="/dist/PNG/TLOS.png" alt="Telos" width="32" height="32"><br>[PNG](/dist/PNG/TLOS.png) | 50x48<br>343 bytes | 128x128<br>8,030 bytes | New brand icon |
 | TT | <img src="/dist/PNG/TT.png" alt="Thunderscore" width="32" height="32"><br>[PNG](/dist/PNG/TT.png) | 128x128<br>11,054 bytes | 128x128<br>7,392 bytes | New brand icon |
 | USDC | <img src="/dist/PNG/USDC.png" alt="USDC" width="32" height="32"><br>[PNG](/dist/PNG/USDC.png) &#124; [SVG](/dist/SVG/USDC.svg) | 128x128<br>8,148 bytes | 128x128<br>6,012 bytes | Anti-aliased icon |
@@ -27,6 +28,7 @@
 | XLA | <img src="/dist/PNG/XLA.png" alt="Scala" width="32" height="32"><br>[PNG](/dist/PNG/XLA.png) &#124; [SVG](/dist/SVG/XLA.svg) | 128x128<br>6,004 bytes | 128x128<br>5,747 bytes | Better icon compression |
 | XMR | <img src="/dist/PNG/XMR.png" alt="Monero" width="32" height="32"><br>[PNG](/dist/PNG/XMR.png) &#124; [SVG](/dist/SVG/XMR.svg) | 128x128<br>6,010 bytes | 128x128<br>2,841 bytes | Better icon compression |
 | ZEC | <img src="/dist/PNG/ZEC.png" alt="Zcash" width="32" height="32"><br>[PNG](/dist/PNG/ZEC.png) &#124; [SVG](/dist/SVG/ZEC.svg) | 128x128<br>11,576 bytes | 128x128<br>3,192 bytes | New brand icon |
+| ZEN | <img src="/dist/PNG/ZEN.png" alt="Horizen" width="32" height="32"><br>[PNG](/dist/PNG/ZEN.png) &#124; [SVG](/dist/SVG/ZEN.svg) | 64x64<br>3,465 bytes | 128x128<br>5,027 bytes | New brand icon |
 
 ## Tools used
 
