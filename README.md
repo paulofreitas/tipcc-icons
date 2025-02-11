@@ -2,7 +2,7 @@
 *New refreshed and optimized cryptocurrency icons for [tip.cc](https://tip.ccc/) bot*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-3861fb.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Icons: 24](https://img.shields.io/badge/icons-24-3861fb.svg)
+![Icons: 26](https://img.shields.io/badge/icons-26-3861fb.svg)
 
 Images are in transparent PNG format at 128×128 size, along with SVG versions when available.
 
@@ -15,11 +15,13 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | BAN | <img src="/dist/PNG/BAN.png" alt="Banano" width="32" height="32"><br>[PNG](/dist/PNG/BAN.png) &#124; [SVG](/dist/SVG/BAN.svg) | 128×128<br>10,770 bytes | 128×128<br>12,257 bytes | Anti-aliased icon |
 | BCH | <img src="/dist/PNG/BCH.png" alt="Bitcoin Cash" width="32" height="32"><br>[PNG](/dist/PNG/BCH.png) &#124; [SVG](/dist/SVG/BCH.svg) | 128×128<br>3,431 bytes | 128×128<br>5,277 bytes | New brand icon |
 | BONC | <img src="/dist/PNG/BONC.png" alt="Bonkcoin" width="32" height="32"><br>[PNG](/dist/PNG/BONC.png) &#124; [SVG](/dist/SVG/BONC.svg) | 119×128<br>29,122 bytes | 128×128<br>11,418 bytes | New brand icon |
+| BTC | <img src="/dist/PNG/BTC.png" alt="Bitcoin" width="32" height="32"><br>[PNG](/dist/PNG/BTC.png) &#124; [SVG](/dist/SVG/BTC.svg) | 128×128<br>2,589 bytes | 128×128<br>4,328 bytes | Better icon quality |
 | BTG | <img src="/dist/PNG/BTG.png" alt="Bitcoin Gold" width="32" height="32"><br>[PNG](/dist/PNG/BTG.png) &#124; [SVG](/dist/SVG/BTG.svg) | 128×128<br>10,307 bytes | 128×128<br>9,157 bytes | Better icon compression |
 | DASH | <img src="/dist/PNG/DASH.png" alt="Dash" width="32" height="32"><br>[PNG](/dist/PNG/DASH.png) &#124; [SVG](/dist/SVG/DASH.svg) | 96×96<br>3,119 bytes | 128×128<br>3,375 bytes | New brand icon<br>(used for coin) |
 | DGB | <img src="/dist/PNG/DGB.png" alt="Digibyte" width="32" height="32"><br>[PNG](/dist/PNG/DGB.png) &#124; [SVG](/dist/SVG/DGB.svg) | 128×128<br>10,302 bytes | 128×128<br>4,622 bytes | Anti-aliased icon |
 | EURC | <img src="/dist/PNG/EURC.png" alt="EURC" width="32" height="32"><br>[PNG](/dist/PNG/EURC.png) &#124; [SVG](/dist/SVG/EURC.svg) | 128×128<br>14,838 bytes | 128×128<br>5,949 bytes | New brand icon |
 | FLR | <img src="/dist/PNG/FLR.png" alt="Flare" width="32" height="32"><br>[PNG](/dist/PNG/FLR.png) &#124; [SVG](/dist/SVG/FLR.svg) | 128×128<br>6,844 bytes | 128×128<br>2,925 bytes | Better icon compression |
+| FLUX | <img src="/dist/PNG/FLUX.png" alt="Flux" width="32" height="32"><br>[PNG](/dist/PNG/FLUX.png) &#124; [SVG](/dist/SVG/FLUX.svg) | 128×126<br>5,127 bytes | 128×128<br>3,449 bytes | Better icon size |
 | LINK | <img src="/dist/PNG/LINK.png" alt="Chainlink" width="32" height="32"><br>[PNG](/dist/PNG/LINK.png) &#124; [SVG](/dist/SVG/LINK.svg) | 64×64<br>1,526 bytes | 128×128<br>1,591 bytes | New brand icon |
 | LTC | <img src="/dist/PNG/LTC.png" alt="Litecoin" width="32" height="32"><br>[PNG](/dist/PNG/LTC.png) &#124; [SVG](/dist/SVG/LTC.svg) | 128×128<br>1,660 bytes | 128×128<br>3,431 bytes | New brand icon<br>(used in their wallet) |
 | NANO | <img src="/dist/PNG/NANO.png" alt="Nano" width="32" height="32"><br>[PNG](/dist/PNG/NANO.png) &#124; [SVG](/dist/SVG/NANO.svg) | 50×50<br>2,170 bytes | 128×128<br>3,608 bytes | Better icon size |

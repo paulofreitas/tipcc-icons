@@ -10,6 +10,10 @@
   SVG icon compressed, PNG icon resized from original 7680x7680 and compressed
 - Added ZEN icons (PNG+SVG), extracted from their official media kit available at <https://downloads.horizen.io/file/web-assets/HorizenMediaKit.zip><br>
   SVG icon edited and compressed, PNG icon converted from SVG and compressed
+- Added BTC icons (PNG+SVG), extracted from the amazing work done by Bitcoin Design available at <https://bitcoin.design/guide/getting-started/visual-language/><br>
+  SVG icon compressed, PNG icon resized from original 1000x1000 and compressed
+- Added FLUX icons (PNG+SVG), extracted from their official press kit available at <https://github.com/RunOnFlux/media-logos><br>
+  SVG compressed, PNG icon converted from SVG and compressed
 
 ## 2025-02-10
 
