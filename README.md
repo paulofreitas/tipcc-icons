@@ -12,6 +12,7 @@
 | DASH | <img src="/dist/PNG/DASH.png" alt="Dash" width="32" height="32"><br>[PNG](/dist/PNG/DASH.png) &#124; [SVG](/dist/SVG/DASH.svg) | 96x96<br>3,119 bytes | 128x128<br>3,375 bytes | New brand icon<br>(used for coin) |
 | DGB | <img src="/dist/PNG/DGB.png" alt="Digibyte" width="32" height="32"><br>[PNG](/dist/PNG/DGB.png) &#124; [SVG](/dist/SVG/DGB.svg) | 128x128<br>10,302 bytes | 128x128<br>4,622 bytes | Anti-aliased icon |
 | EURC | <img src="/dist/PNG/EURC.png" alt="EURC" width="32" height="32"><br>[PNG](/dist/PNG/EURC.png) &#124; [SVG](/dist/SVG/EURC.svg) | 128x128<br>14,838 bytes | 128x128<br>5,949 bytes | New brand icon |
+| FLR | <img src="/dist/PNG/FLR.png" alt="Flare" width="32" height="32"><br>[PNG](/dist/PNG/FLR.png) &#124; [SVG](/dist/SVG/FLR.svg) | 128x128<br>6,844 bytes | 128x128<br>2,925 bytes | Better icon compression |
 | LINK | <img src="/dist/PNG/LINK.png" alt="Chainlink" width="32" height="32"><br>[PNG](/dist/PNG/LINK.png) &#124; [SVG](/dist/SVG/LINK.svg) | 64x64<br>1,526 bytes | 128x128<br>1,591 bytes | New brand icon |
 | LTC | <img src="/dist/PNG/LTC.png" alt="Litecoin" width="32" height="32"><br>[PNG](/dist/PNG/LTC.png) &#124; [SVG](/dist/SVG/LTC.svg) | 128x128<br>1,660 bytes | 128x128<br>3,431 bytes | New brand icon<br>(used in their wallet) |
 | NANO | <img src="/dist/PNG/NANO.png" alt="Nano" width="32" height="32"><br>[PNG](/dist/PNG/NANO.png) &#124; [SVG](/dist/SVG/NANO.svg) | 50x50<br>2,170 bytes | 128x128<br>3,608 bytes | Better icon size |
@@ -25,6 +26,7 @@
 | WAXP | <img src="/dist/PNG/WAXP.png" alt="WAX" width="32" height="32"><br>[PNG](/dist/PNG/WAXP.png) | 64x64<br>7,236 bytes | 128x128<br>26,585 bytes | Better icon size |
 | XLA | <img src="/dist/PNG/XLA.png" alt="Scala" width="32" height="32"><br>[PNG](/dist/PNG/XLA.png) &#124; [SVG](/dist/SVG/XLA.svg) | 128x128<br>6,004 bytes | 128x128<br>5,747 bytes | Better icon compression |
 | XMR | <img src="/dist/PNG/XMR.png" alt="Monero" width="32" height="32"><br>[PNG](/dist/PNG/XMR.png) &#124; [SVG](/dist/SVG/XMR.svg) | 128x128<br>6,010 bytes | 128x128<br>2,841 bytes | Better icon compression |
+| ZEC | <img src="/dist/PNG/ZEC.png" alt="Zcash" width="32" height="32"><br>[PNG](/dist/PNG/ZEC.png) &#124; [SVG](/dist/SVG/ZEC.svg) | 128x128<br>11,576 bytes | 128x128<br>3,192 bytes | New brand icon |
 
 ## Tools used
 

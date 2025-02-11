@@ -1,11 +1,18 @@
 # Changelog
 
+## 2025-02-11
+
+- Added ZEC icons (PNG+SVG), extracted from their official media kit available at <https://z.cash/press/><br>
+  SVG icon edited and compressed, PNG icon converted from SVG and compressed
+- Added FLR icons (PNG+SVG), extracted from their official media & branding page available at <https://flare.network/media/><br>
+  SVG icon edited and compressed, PNG icon cropped from original 579x579, resized and compressed
+
 ## 2025-02-10
 
 - Added XMR icons (PNG+SVG), extracted from their official press kit available at <https://www.getmonero.org/press-kit/><br>
   SVG icon converted from AI and compressed, PNG icon cropped from original 1280x1280, resized and compressed
 - Added XLA icons (PNG+SVG), extracted from their official brand assets available at <https://scala.network/brand-assets/><br>
-  SVG icon compressed, PNG icon resize from original 500x500 and compressed
+  SVG icon compressed, PNG icon resized from original 500x500 and compressed
 
 ## 2025-02-09
 
