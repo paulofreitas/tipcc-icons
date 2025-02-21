@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-02-20
+
+- Added AAVE icons (PNG+SVG), extracted from their official brand assets available at <https://aave.com/brand><br>
+  SVG icon compressed, PNG icon resized from original 508x508 and compressed
+- Added CAKE icons (PNG+SVG), extracted from their official brand & logos guidelines available at <https://docs.pancakeswap.finance/ecosystem-and-partnerships/brand><br>
+  SVG icon compressed, PNG icon resized from original 512x512 and compressed
+
 ## 2025-02-11
 
 - Added ZEC icons (PNG+SVG), extracted from their official media kit available at <https://z.cash/press/><br>
@@ -14,6 +21,8 @@
   SVG icon compressed, PNG icon resized from original 1000x1000 and compressed
 - Added FLUX icons (PNG+SVG), extracted from their official press kit available at <https://github.com/RunOnFlux/media-logos><br>
   SVG compressed, PNG icon converted from SVG and compressed
+- Added KMD icon (PNG), extracted from their official brand assets available at <https://komodoplatform.com/dl/Komodo_Brand_Assets_23.zip><br>
+  PNG icon resized from original 501x501 and compressed
 
 ## 2025-02-10
 
