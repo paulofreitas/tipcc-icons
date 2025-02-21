@@ -2,7 +2,7 @@
 *New refreshed and optimized cryptocurrency icons for [tip.cc](https://tip.ccc/) bot*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-3861fb.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Icons: 29](https://img.shields.io/badge/icons-27-3861fb.svg)
+![Icons: 29](https://img.shields.io/badge/icons-29-3861fb.svg)
 
 Images are in transparent PNG format at 128×128 size, along with SVG versions when available.
 
