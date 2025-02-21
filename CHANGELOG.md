@@ -1,5 +1,12 @@
 # Changelog
 
+# 2025-02-21
+
+- Added PERP icons (PNG+SVG), extracted from their official brand assets available at <https://perp.com/branding><br>
+ SVG icon compressed, PNG icon resized from original 1024x1024 and compressed
+- Added ILV icons (PNG+SVG), extracted from their official branding guidelines available at <https://brand.illuvium.io/illuvium/logos><br>
+ SVG icon compressed, PNG icon resized from original 2000x2001 and compressed
+
 ## 2025-02-20
 
 - Added AAVE icons (PNG+SVG), extracted from their official brand assets available at <https://aave.com/brand><br>

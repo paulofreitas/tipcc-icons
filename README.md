@@ -2,7 +2,7 @@
 *New refreshed and optimized cryptocurrency icons for [tip.cc](https://tip.ccc/) bot*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-3861fb.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Icons: 29](https://img.shields.io/badge/icons-29-3861fb.svg)
+![Icons: 31](https://img.shields.io/badge/icons-31-3861fb.svg)
 
 Images are in transparent PNG format at 128×128 size, along with SVG versions when available.
 
@@ -24,12 +24,14 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | EURC | <img src="/dist/PNG/EURC.png" alt="EURC" width="32" height="32"><br>[PNG](/dist/PNG/EURC.png) &#124; [SVG](/dist/SVG/EURC.svg) | 128×128<br>14,838 bytes | 128×128<br>5,949 bytes | New brand icon |
 | FLR | <img src="/dist/PNG/FLR.png" alt="Flare" width="32" height="32"><br>[PNG](/dist/PNG/FLR.png) &#124; [SVG](/dist/SVG/FLR.svg) | 128×128<br>6,844 bytes | 128×128<br>2,925 bytes | Better icon compression |
 | FLUX | <img src="/dist/PNG/FLUX.png" alt="Flux" width="32" height="32"><br>[PNG](/dist/PNG/FLUX.png) &#124; [SVG](/dist/SVG/FLUX.svg) | 128×126<br>5,127 bytes | 128×128<br>3,449 bytes | Better icon size |
+| ILV | <img src="/dist/PNG/ILV.png" alt="Illuvium" width="32" height="32"><br>[PNG](/dist/PNG/ILV.png) &#124; [SVG](/dist/SVG/ILV.svg) | 32×32<br>2,298 bytes | 128×128<br>17,824 bytes | Better icon size |
 | KMD | <img src="/dist/PNG/KMD.png" alt="Komodo" width="32" height="32"><br>[PNG](/dist/PNG/KMD.png) | 102×102<br>6,419 bytes | 128×128<br>10,519 bytes | New brand icon<br>(preferred KMD icon) |
 | LINK | <img src="/dist/PNG/LINK.png" alt="Chainlink" width="32" height="32"><br>[PNG](/dist/PNG/LINK.png) &#124; [SVG](/dist/SVG/LINK.svg) | 64×64<br>1,526 bytes | 128×128<br>1,591 bytes | New brand icon |
 | LTC | <img src="/dist/PNG/LTC.png" alt="Litecoin" width="32" height="32"><br>[PNG](/dist/PNG/LTC.png) &#124; [SVG](/dist/SVG/LTC.svg) | 128×128<br>1,660 bytes | 128×128<br>3,431 bytes | New brand icon<br>(used in their wallet) |
 | NANO | <img src="/dist/PNG/NANO.png" alt="Nano" width="32" height="32"><br>[PNG](/dist/PNG/NANO.png) &#124; [SVG](/dist/SVG/NANO.svg) | 50×50<br>2,170 bytes | 128×128<br>3,608 bytes | Better icon size |
 | OP | <img src="/dist/PNG/OP.png" alt="Optimism" width="32" height="32"><br>[PNG](/dist/PNG/OP.png) &#124; [SVG](/dist/SVG/OP.svg) | 32×32<br>1,025 bytes | 128×128<br>3,043 bytes | Better icon size |
 | PEPE | <img src="/dist/PNG/PEPE.png" alt="Pepecoin" width="32" height="32"><br>[PNG](/dist/PNG/PEPE.png) &#124; [SVG](/dist/SVG/PEPE.svg) | 128×128<br>23,696 bytes | 128×128<br>10,454 bytes | Better icon compression |
+| PERP | <img src="/dist/PNG/PERP.png" alt="Perpetual Protocol" width="32" height="32"><br>[PNG](/dist/PNG/PERP.png) &#124; [SVG](/dist/SVG/PERP.svg) | 120×108<br>2,102 bytes | 128×128<br>3,948 bytes | New brand icon |
 | POL | <img src="/dist/PNG/POL.png" alt="Polygon Ecosystem Token" width="32" height="32"><br>[PNG](/dist/PNG/POL.png) &#124; [SVG](/dist/SVG/POL.svg) | 128×128<br>10,242 bytes | 128×128<br>2,657 bytes | New brand icon |
 | PPC | <img src="/dist/PNG/PPC.png" alt="Peercoin" width="32" height="32"><br>[PNG](/dist/PNG/PPC.png) &#124; [SVG](/dist/SVG/PPC.svg) | 128×128<br>4,574 bytes | 128×128<br>3,732 bytes | Better icon compression |
 | TLOS | <img src="/dist/PNG/TLOS.png" alt="Telos" width="32" height="32"><br>[PNG](/dist/PNG/TLOS.png) | 50×48<br>343 bytes | 128×128<br>8,030 bytes | New brand icon |
