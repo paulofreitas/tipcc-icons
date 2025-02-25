@@ -2,7 +2,7 @@
 *New refreshed and optimized cryptocurrency icons for [tip.cc](https://tip.ccc/) bot*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-3861fb.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Icons: 31](https://img.shields.io/badge/icons-31-3861fb.svg)
+![Icons: 33](https://img.shields.io/badge/icons-33-3861fb.svg)
 
 Images are in transparent PNG format at 128×128 size, along with SVG versions when available.
 
@@ -15,6 +15,7 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | AAVE | <img src="/dist/PNG/AAVE.png" alt="Aave" width="32" height="32"><br>[PNG](/dist/PNG/AAVE.png) &#124; [SVG](/dist/SVG/AAVE.svg) | 128×128<br>7,471 bytes | 128×128<br>4,121 bytes | New brand icon |
 | BAN | <img src="/dist/PNG/BAN.png" alt="Banano" width="32" height="32"><br>[PNG](/dist/PNG/BAN.png) &#124; [SVG](/dist/SVG/BAN.svg) | 128×128<br>10,770 bytes | 128×128<br>12,257 bytes | Anti-aliased icon |
 | BCH | <img src="/dist/PNG/BCH.png" alt="Bitcoin Cash" width="32" height="32"><br>[PNG](/dist/PNG/BCH.png) &#124; [SVG](/dist/SVG/BCH.svg) | 128×128<br>3,431 bytes | 128×128<br>5,277 bytes | New brand icon |
+| BNT | <img src="/dist/PNG/BNT.png" alt="Bancor Network Token" width="32" height="32"><br>[PNG](/dist/PNG/BNT.png) &#124; [SVG](/dist/SVG/BNT.svg) | 32×32<br>257 bytes | 128×128<br>7,769 bytes | New brand icon |
 | BONC | <img src="/dist/PNG/BONC.png" alt="Bonkcoin" width="32" height="32"><br>[PNG](/dist/PNG/BONC.png) &#124; [SVG](/dist/SVG/BONC.svg) | 119×128<br>29,122 bytes | 128×128<br>11,418 bytes | New brand icon |
 | BTC | <img src="/dist/PNG/BTC.png" alt="Bitcoin" width="32" height="32"><br>[PNG](/dist/PNG/BTC.png) &#124; [SVG](/dist/SVG/BTC.svg) | 128×128<br>2,589 bytes | 128×128<br>4,328 bytes | Better icon quality |
 | BTG | <img src="/dist/PNG/BTG.png" alt="Bitcoin Gold" width="32" height="32"><br>[PNG](/dist/PNG/BTG.png) &#124; [SVG](/dist/SVG/BTG.svg) | 128×128<br>10,307 bytes | 128×128<br>9,157 bytes | Better icon compression |
@@ -38,6 +39,7 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | TT | <img src="/dist/PNG/TT.png" alt="Thunderscore" width="32" height="32"><br>[PNG](/dist/PNG/TT.png) | 128×128<br>11,054 bytes | 128×128<br>7,392 bytes | New brand icon |
 | USDC | <img src="/dist/PNG/USDC.png" alt="USDC" width="32" height="32"><br>[PNG](/dist/PNG/USDC.png) &#124; [SVG](/dist/SVG/USDC.svg) | 128×128<br>8,148 bytes | 128×128<br>6,012 bytes | Anti-aliased icon |
 | VRSC | <img src="/dist/PNG/VRSC.png" alt="Verus Coin" width="32" height="32"><br>[PNG](/dist/PNG/VRSC.png) &#124; [SVG](/dist/SVG/VRSC.svg) | 64×64<br>2,638 bytes | 128×128<br>3,731 bytes | Better icon size |
+| VTC | <img src="/dist/PNG/VTC.png" alt="Vertcoin" width="32" height="32"><br>[PNG](/dist/PNG/VTC.png) &#124; [SVG](/dist/SVG/VTC.svg) | 128×128<br>4,493 bytes | 128×128<br>3,711 bytes | Anti-aliased icon |
 | WAXP | <img src="/dist/PNG/WAXP.png" alt="WAX" width="32" height="32"><br>[PNG](/dist/PNG/WAXP.png) | 64×64<br>7,236 bytes | 128×128<br>26,585 bytes | Better icon size |
 | XLA | <img src="/dist/PNG/XLA.png" alt="Scala" width="32" height="32"><br>[PNG](/dist/PNG/XLA.png) &#124; [SVG](/dist/SVG/XLA.svg) | 128×128<br>6,004 bytes | 128×128<br>5,747 bytes | Better icon compression |
 | XMR | <img src="/dist/PNG/XMR.png" alt="Monero" width="32" height="32"><br>[PNG](/dist/PNG/XMR.png) &#124; [SVG](/dist/SVG/XMR.svg) | 128×128<br>6,010 bytes | 128×128<br>2,841 bytes | Better icon compression |

@@ -1,11 +1,18 @@
 # Changelog
 
+# 2025-02-25
+
+- Added VTC icons (PNG+SVG), extracted from their official logo package repository available at <https://github.com/vertcoin-project/vertcoin-logo-package><br>
+  SVG icon compressed, PNG icon converted from SVG and compressed
+
 # 2025-02-21
 
 - Added PERP icons (PNG+SVG), extracted from their official brand assets available at <https://perp.com/branding><br>
- SVG icon compressed, PNG icon resized from original 1024x1024 and compressed
+  SVG icon compressed, PNG icon resized from original 1024x1024 and compressed
 - Added ILV icons (PNG+SVG), extracted from their official branding guidelines available at <https://brand.illuvium.io/illuvium/logos><br>
- SVG icon compressed, PNG icon resized from original 2000x2001 and compressed
+  SVG icon compressed, PNG icon resized from original 2000x2001 and compressed
+- Added BNT icons (PNG+SVG), extracted from their official brand kit available at <https://bancor.network/brand><br>
+  SVG icon compressed, PNG icon resized from original 1080x1080 and compressed
 
 ## 2025-02-20
 
