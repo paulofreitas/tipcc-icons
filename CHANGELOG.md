@@ -4,6 +4,10 @@
 
 - Added VTC icons (PNG+SVG), extracted from their official logo package repository available at <https://github.com/vertcoin-project/vertcoin-logo-package><br>
   SVG icon compressed, PNG icon converted from SVG and compressed
+- Added HUSH icons (PNG+SVG), extracted from their official media pack available at <https://git.hush.is/hush/Mediapack><br>
+  SVG icon compressed, PNG icon resized from original 200x200 and compressed
+- Added SNX icons (PNG+SVG), extracted from their official assets available at <https://github.com/Synthetixio/synthetix-assets><br>
+  SVG icon compressed, PNG icon resize from original 960x960 and compressed
 
 # 2025-02-21
 

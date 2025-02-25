@@ -2,7 +2,7 @@
 *New refreshed and optimized cryptocurrency icons for [tip.cc](https://tip.ccc/) bot*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-3861fb.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Icons: 33](https://img.shields.io/badge/icons-33-3861fb.svg)
+![Icons: 35](https://img.shields.io/badge/icons-35-3861fb.svg)
 
 Images are in transparent PNG format at 128×128 size, along with SVG versions when available.
 
@@ -25,6 +25,7 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | EURC | <img src="/dist/PNG/EURC.png" alt="EURC" width="32" height="32"><br>[PNG](/dist/PNG/EURC.png) &#124; [SVG](/dist/SVG/EURC.svg) | 128×128<br>14,838 bytes | 128×128<br>5,949 bytes | New brand icon |
 | FLR | <img src="/dist/PNG/FLR.png" alt="Flare" width="32" height="32"><br>[PNG](/dist/PNG/FLR.png) &#124; [SVG](/dist/SVG/FLR.svg) | 128×128<br>6,844 bytes | 128×128<br>2,925 bytes | Better icon compression |
 | FLUX | <img src="/dist/PNG/FLUX.png" alt="Flux" width="32" height="32"><br>[PNG](/dist/PNG/FLUX.png) &#124; [SVG](/dist/SVG/FLUX.svg) | 128×126<br>5,127 bytes | 128×128<br>3,449 bytes | Better icon size |
+| HUSH | <img src="/dist/PNG/HUSH.png" alt="Hush" width="32" height="32"><br>[PNG](/dist/PNG/HUSH.png) &#124; [SVG](/dist/SVG/HUSH.svg) | 128×128<br>2,069 bytes | 128×128<br>2,911 bytes | New brand icon<br>(dark color) |
 | ILV | <img src="/dist/PNG/ILV.png" alt="Illuvium" width="32" height="32"><br>[PNG](/dist/PNG/ILV.png) &#124; [SVG](/dist/SVG/ILV.svg) | 32×32<br>2,298 bytes | 128×128<br>17,824 bytes | Better icon size |
 | KMD | <img src="/dist/PNG/KMD.png" alt="Komodo" width="32" height="32"><br>[PNG](/dist/PNG/KMD.png) | 102×102<br>6,419 bytes | 128×128<br>10,519 bytes | New brand icon<br>(preferred KMD icon) |
 | LINK | <img src="/dist/PNG/LINK.png" alt="Chainlink" width="32" height="32"><br>[PNG](/dist/PNG/LINK.png) &#124; [SVG](/dist/SVG/LINK.svg) | 64×64<br>1,526 bytes | 128×128<br>1,591 bytes | New brand icon |
@@ -35,6 +36,7 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | PERP | <img src="/dist/PNG/PERP.png" alt="Perpetual Protocol" width="32" height="32"><br>[PNG](/dist/PNG/PERP.png) &#124; [SVG](/dist/SVG/PERP.svg) | 120×108<br>2,102 bytes | 128×128<br>3,948 bytes | New brand icon |
 | POL | <img src="/dist/PNG/POL.png" alt="Polygon Ecosystem Token" width="32" height="32"><br>[PNG](/dist/PNG/POL.png) &#124; [SVG](/dist/SVG/POL.svg) | 128×128<br>10,242 bytes | 128×128<br>2,657 bytes | New brand icon |
 | PPC | <img src="/dist/PNG/PPC.png" alt="Peercoin" width="32" height="32"><br>[PNG](/dist/PNG/PPC.png) &#124; [SVG](/dist/SVG/PPC.svg) | 128×128<br>4,574 bytes | 128×128<br>3,732 bytes | Better icon compression |
+| SNX | <img src="/dist/PNG/SNX.png" alt="Synthetix Network Token" width="32" height="32"><br>[PNG](/dist/PNG/SNX.png) &#124; [SVG](/dist/SVG/SNX.svg) | 128×128<br>5,573 bytes | 128×128<br>5,457 bytes | New brand icon |
 | TLOS | <img src="/dist/PNG/TLOS.png" alt="Telos" width="32" height="32"><br>[PNG](/dist/PNG/TLOS.png) | 50×48<br>343 bytes | 128×128<br>8,030 bytes | New brand icon |
 | TT | <img src="/dist/PNG/TT.png" alt="Thunderscore" width="32" height="32"><br>[PNG](/dist/PNG/TT.png) | 128×128<br>11,054 bytes | 128×128<br>7,392 bytes | New brand icon |
 | USDC | <img src="/dist/PNG/USDC.png" alt="USDC" width="32" height="32"><br>[PNG](/dist/PNG/USDC.png) &#124; [SVG](/dist/SVG/USDC.svg) | 128×128<br>8,148 bytes | 128×128<br>6,012 bytes | Anti-aliased icon |
