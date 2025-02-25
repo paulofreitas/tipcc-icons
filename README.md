@@ -69,7 +69,7 @@ If you would like to say thanks and support its further development, a donation 
 - [Donate via GitHub Sponsors](https://github.com/sponsors/paulofreitas)
 - [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=7RXV5F493MYVY)
 - Donate via crypto:
-  - BTC: bc1qx52la826uezj0t7t5ty4t0708cv4jg5p5mu2v9
-  - LTC: ltc1qx52la826uezj0t7t5ty4t0708cv4jg5ps8xw54
-  - DOGE: D9ynhdrciMzvY91wu9uZ3oPBTURUSGfkkV
-  - PEP: PcmUJTc7B43hoQeCY4Zqf4Tdpb7zyAe37U
+  - BTC: `bc1qx52la826uezj0t7t5ty4t0708cv4jg5p5mu2v9`
+  - LTC: `ltc1qx52la826uezj0t7t5ty4t0708cv4jg5ps8xw54`
+  - DOGE: `D9ynhdrciMzvY91wu9uZ3oPBTURUSGfkkV`
+  - PEP: `PcmUJTc7B43hoQeCY4Zqf4Tdpb7zyAe37U`
