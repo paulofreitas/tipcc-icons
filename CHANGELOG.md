@@ -8,6 +8,8 @@
   SVG icon compressed, PNG icon resized from original 200x200 and compressed
 - Added SNX icons (PNG+SVG), extracted from their official assets available at <https://github.com/Synthetixio/synthetix-assets><br>
   SVG icon compressed, PNG icon resize from original 960x960 and compressed
+- Added opSNX icons (PNG+SVG), made by merging and resizing original SNX and OP vectors
+  SVG icon compressed, PNG icon converted from SVG and compressed
 
 # 2025-02-21
 

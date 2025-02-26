@@ -2,7 +2,7 @@
 *New refreshed and optimized cryptocurrency icons for [tip.cc](https://tip.ccc/) bot*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-3861fb.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Icons: 35](https://img.shields.io/badge/icons-35-3861fb.svg)
+![Icons: 36](https://img.shields.io/badge/icons-36-3861fb.svg)
 
 Images are in transparent PNG format at 128×128 size, along with SVG versions when available.
 
@@ -32,6 +32,7 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | LTC | <img src="/dist/PNG/LTC.png" alt="Litecoin" width="32" height="32"><br>[PNG](/dist/PNG/LTC.png) &#124; [SVG](/dist/SVG/LTC.svg) | 128×128<br>1,660 bytes | 128×128<br>3,431 bytes | New brand icon<br>(used in their wallet) |
 | NANO | <img src="/dist/PNG/NANO.png" alt="Nano" width="32" height="32"><br>[PNG](/dist/PNG/NANO.png) &#124; [SVG](/dist/SVG/NANO.svg) | 50×50<br>2,170 bytes | 128×128<br>3,608 bytes | Better icon size |
 | OP | <img src="/dist/PNG/OP.png" alt="Optimism" width="32" height="32"><br>[PNG](/dist/PNG/OP.png) &#124; [SVG](/dist/SVG/OP.svg) | 32×32<br>1,025 bytes | 128×128<br>3,043 bytes | Better icon size |
+| opSNX | <img src="/dist/PNG/opSNX.png" alt="Synthetix Network Token (Optimism)" width="32" height="32"><br>[PNG](/dist/PNG/opSNX.png) &#124; [SVG](/dist/SVG/opSNX.svg) | 128×128<br>10,578 bytes | 128×128<br>4,586 bytes | New brand icon<br>(added Optimism icon) |
 | PEPE | <img src="/dist/PNG/PEPE.png" alt="Pepecoin" width="32" height="32"><br>[PNG](/dist/PNG/PEPE.png) &#124; [SVG](/dist/SVG/PEPE.svg) | 128×128<br>23,696 bytes | 128×128<br>10,454 bytes | Better icon compression |
 | PERP | <img src="/dist/PNG/PERP.png" alt="Perpetual Protocol" width="32" height="32"><br>[PNG](/dist/PNG/PERP.png) &#124; [SVG](/dist/SVG/PERP.svg) | 120×108<br>2,102 bytes | 128×128<br>3,948 bytes | New brand icon |
 | POL | <img src="/dist/PNG/POL.png" alt="Polygon Ecosystem Token" width="32" height="32"><br>[PNG](/dist/PNG/POL.png) &#124; [SVG](/dist/SVG/POL.svg) | 128×128<br>10,242 bytes | 128×128<br>2,657 bytes | New brand icon |
