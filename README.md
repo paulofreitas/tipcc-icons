@@ -2,7 +2,7 @@
 *New refreshed and optimized cryptocurrency icons for [tip.cc](https://tip.ccc/) bot*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-3861fb.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Icons: 36](https://img.shields.io/badge/icons-36-3861fb.svg)
+![Icons: 38](https://img.shields.io/badge/icons-38-3861fb.svg)
 
 Images are in transparent PNG format at 128×128 size, along with SVG versions when available.
 
@@ -13,6 +13,7 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | Currency | Icons | Old | New | Notes |
 |---------:|:-----:|----:|----:|:------|
 | AAVE | <img src="/dist/PNG/AAVE.png" alt="Aave" width="32" height="32"><br>[PNG](/dist/PNG/AAVE.png) &#124; [SVG](/dist/SVG/AAVE.svg) | 128×128<br>7,471 bytes | 128×128<br>4,121 bytes | New brand icon |
+| ACX | <img src="/dist/PNG/ACX.png" alt="Across Protocol" width="32" height="32"><br>[PNG](/dist/PNG/ACX.png) &#124; [SVG](/dist/SVG/ACX.svg) | 128×128<br>7,717 bytes | 128×128<br>2,324 bytes | Better icon compression |
 | BAN | <img src="/dist/PNG/BAN.png" alt="Banano" width="32" height="32"><br>[PNG](/dist/PNG/BAN.png) &#124; [SVG](/dist/SVG/BAN.svg) | 128×128<br>10,770 bytes | 128×128<br>12,257 bytes | Anti-aliased icon |
 | BCH | <img src="/dist/PNG/BCH.png" alt="Bitcoin Cash" width="32" height="32"><br>[PNG](/dist/PNG/BCH.png) &#124; [SVG](/dist/SVG/BCH.svg) | 128×128<br>3,431 bytes | 128×128<br>5,277 bytes | New brand icon |
 | BNT | <img src="/dist/PNG/BNT.png" alt="Bancor Network Token" width="32" height="32"><br>[PNG](/dist/PNG/BNT.png) &#124; [SVG](/dist/SVG/BNT.svg) | 32×32<br>257 bytes | 128×128<br>7,769 bytes | New brand icon |
@@ -32,6 +33,7 @@ This is all voluntary work, so if you'd like to support my efforts, please consi
 | LTC | <img src="/dist/PNG/LTC.png" alt="Litecoin" width="32" height="32"><br>[PNG](/dist/PNG/LTC.png) &#124; [SVG](/dist/SVG/LTC.svg) | 128×128<br>1,660 bytes | 128×128<br>3,431 bytes | New brand icon<br>(used in their wallet) |
 | NANO | <img src="/dist/PNG/NANO.png" alt="Nano" width="32" height="32"><br>[PNG](/dist/PNG/NANO.png) &#124; [SVG](/dist/SVG/NANO.svg) | 50×50<br>2,170 bytes | 128×128<br>3,608 bytes | Better icon size |
 | OP | <img src="/dist/PNG/OP.png" alt="Optimism" width="32" height="32"><br>[PNG](/dist/PNG/OP.png) &#124; [SVG](/dist/SVG/OP.svg) | 32×32<br>1,025 bytes | 128×128<br>3,043 bytes | Better icon size |
+| opACX | <img src="/dist/PNG/ACX.png" alt="Across Protocol (Optimism)" width="32" height="32"><br>[PNG](/dist/PNG/opACX.png) &#124; [SVG](/dist/SVG/opACX.svg) | 128×128<br>14,344 bytes | 128×128<br>3,366 bytes | New brand icon<br>(added Optimism icon) |
 | opSNX | <img src="/dist/PNG/opSNX.png" alt="Synthetix Network Token (Optimism)" width="32" height="32"><br>[PNG](/dist/PNG/opSNX.png) &#124; [SVG](/dist/SVG/opSNX.svg) | 128×128<br>10,578 bytes | 128×128<br>4,586 bytes | New brand icon<br>(added Optimism icon) |
 | PEPE | <img src="/dist/PNG/PEPE.png" alt="Pepecoin" width="32" height="32"><br>[PNG](/dist/PNG/PEPE.png) &#124; [SVG](/dist/SVG/PEPE.svg) | 128×128<br>23,696 bytes | 128×128<br>10,454 bytes | Better icon compression |
 | PERP | <img src="/dist/PNG/PERP.png" alt="Perpetual Protocol" width="32" height="32"><br>[PNG](/dist/PNG/PERP.png) &#124; [SVG](/dist/SVG/PERP.svg) | 120×108<br>2,102 bytes | 128×128<br>3,948 bytes | New brand icon |

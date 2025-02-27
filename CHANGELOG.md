@@ -1,5 +1,12 @@
 # Changelog
 
+# 2025-02-27
+
+- Added ACX icons (PNG+SVG), extracted from their official brand assets available at <https://docs.across.to/user-docs/additional-info/across-brand-assets><br>
+  SVG icon compressed, PNG icon resied from original 500x500 and compressed
+- Added opACX icons (PNG+SVG), made by merging and resizing original ACX and OP vectors
+  SVG icon compressed, PNG icon converted from SVG and compressed
+
 # 2025-02-25
 
 - Added VTC icons (PNG+SVG), extracted from their official logo package repository available at <https://github.com/vertcoin-project/vertcoin-logo-package><br>
