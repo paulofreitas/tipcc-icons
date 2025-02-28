@@ -1,5 +1,12 @@
 # Changelog
 
+# 2025-02-28
+
+- Added UBI icons (PNG+SVG), extracted from their official logo repository available at <https://github.com/DemocracyEarth/ubi/tree/master/docs/logo><br>
+  SVG icon compressed, PNG icon resized from original 600x600 and compressed
+- Added BLURT icons (PNG+SVG), extracted from their official branding repository available at <https://gitlab.com/blurt/branding/><br>
+  SVG icon edited and compressed, PNG icon resized from original 699x699 and compressed
+
 # 2025-02-27
 
 - Added ACX icons (PNG+SVG), extracted from their official brand assets available at <https://docs.across.to/user-docs/additional-info/across-brand-assets><br>
@@ -14,7 +21,7 @@
 - Added HUSH icons (PNG+SVG), extracted from their official media pack available at <https://git.hush.is/hush/Mediapack><br>
   SVG icon compressed, PNG icon resized from original 200x200 and compressed
 - Added SNX icons (PNG+SVG), extracted from their official assets available at <https://github.com/Synthetixio/synthetix-assets><br>
-  SVG icon compressed, PNG icon resize from original 960x960 and compressed
+  SVG icon compressed, PNG icon resized from original 960x960 and compressed
 - Added opSNX icons (PNG+SVG), made by merging and resizing original SNX and OP vectors
   SVG icon compressed, PNG icon converted from SVG and compressed
 
